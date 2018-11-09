@@ -1,0 +1,6 @@
+projectKey=com.nalin.project:Pizzaa
+serverUrl=http://localhost:9000
+serverVersion=6.7.5.38563
+dashboardUrl=http://localhost:9000/dashboard/index/com.nalin.project:Pizzaa
+ceTaskId=AWb3HGMcAx30CP7fPi7U
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWb3HGMcAx30CP7fPi7U
